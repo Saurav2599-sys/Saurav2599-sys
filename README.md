@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saurav 👋</h1>
+<h1 align="center">Hello, I'm Saurav 👋</h1>
 <h3 align="center">Software Engineer — Backend, Data Systems & Applied AI</h3>
 
 <p align="center">
@@ -74,7 +74,7 @@ Right now I'm deliberately expanding into the applied-AI engineering stack: retr
 | [🕸️ Knowledge Graph Explorer](#) | Graph data modeling, Neo4j, natural-language graph querying | 🚧 In progress |
 | [☁️ GCP ML Deployment](#) | Cloud Run, BigQuery, Vertex AI — multi-cloud ML serving | 🚧 In progress |
 
-*(Update each remaining `#` with the real repo URL as it ships.)*
+
 
 ---
 
