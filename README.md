@@ -69,7 +69,7 @@ Right now I'm deliberately expanding into the applied-AI engineering stack: retr
 | Project | What it demonstrates | Status |
 |---|---|---|
 | [🔍 RAG Knowledge Assistant](https://github.com/Saurav2599-sys/rag-portfolio-assistant) | Document ingestion, chunking, embeddings, vector retrieval, LLM grounding | ✅ Live |
-| [🛠️ MCP Tool Server](#) | Model Context Protocol, exposing real tools/data to LLM clients | 🚧 In progress |
+| [🛠️ MCP Tool Server](https://github.com/Saurav2599-sys/mcp-tool-calling-assistant) | Model Context Protocol, exposing real tools/data to LLM clients | 🚧 In progress |
 | [🤖 Agentic Job-Fit Assistant](#) | Multi-step tool-calling, orchestration, RAG + agent integration | 🚧 In progress |
 | [🕸️ Knowledge Graph Explorer](#) | Graph data modeling, Neo4j, natural-language graph querying | 🚧 In progress |
 | [☁️ GCP ML Deployment](#) | Cloud Run, BigQuery, Vertex AI — multi-cloud ML serving | 🚧 In progress |
