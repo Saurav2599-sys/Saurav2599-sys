@@ -68,21 +68,21 @@ Right now I'm deliberately expanding into the applied-AI engineering stack: retr
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| [🔍 RAG Knowledge Assistant](#) | Document ingestion, chunking, embeddings, vector retrieval, LLM grounding | 🚧 In progress |
+| [🔍 RAG Knowledge Assistant](https://github.com/Saurav2599-sys/rag-portfolio-assistant) | Document ingestion, chunking, embeddings, vector retrieval, LLM grounding | ✅ Live |
 | [🛠️ MCP Tool Server](#) | Model Context Protocol, exposing real tools/data to LLM clients | 🚧 In progress |
 | [🤖 Agentic Job-Fit Assistant](#) | Multi-step tool-calling, orchestration, RAG + agent integration | 🚧 In progress |
 | [🕸️ Knowledge Graph Explorer](#) | Graph data modeling, Neo4j, natural-language graph querying | 🚧 In progress |
 | [☁️ GCP ML Deployment](#) | Cloud Run, BigQuery, Vertex AI — multi-cloud ML serving | 🚧 In progress |
 
-*(Links will go live as each project ships — update the `#` placeholders with each repo URL once created.)*
+*(Update each remaining `#` with the real repo URL as it ships.)*
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurav2599-sys&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav2599-sys&layout=compact&hide_border=true" />
 </p>
 
 ---
