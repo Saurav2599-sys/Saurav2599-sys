@@ -69,7 +69,7 @@ Right now I'm deliberately expanding into the applied-AI engineering stack: retr
 | [🔍 RAG Knowledge Assistant](https://github.com/Saurav2599-sys/rag-portfolio-assistant) | Document ingestion, chunking, embeddings, vector retrieval, LLM grounding | ✅ Live |
 | [🛠️ MCP Tool Server](https://github.com/Saurav2599-sys/mcp-tool-calling-assistant) | Model Context Protocol, exposing real tools/data to LLM clients | ✅ Live |
 | [🤝 Autonomous Workflow Broker](https://github.com/Saurav2599-sys/autonomous-workflow-broker) | Multi-agent orchestration (LangGraph), forced tool-use, Celery/Redis background jobs, Airflow-scheduled validation | ✅ Live |
-| [🏗️ AI Operations Control Tower](https://github.com/Saurav2599-sys/ai-operations-control-tower) | Deterministic ingestion/validation, OR-Tools constraint-solver scheduling benchmarked against a naive baseline, LLM-based classification via forced tool-calling | 🚧 In progress (Phase 3/6) |
+| [🎛️ AI Operations Control Tower](https://github.com/Saurav2599-sys/ai-operations-control-tower) | Order ingestion API, OR-Tools optimized scheduling, LLM-based classification, React/TS dashboard — full-stack ops system against a real API | ✅ Live |
 | [🕸️ Knowledge Graph Explorer](#) | Graph data modeling, Neo4j, natural-language graph querying | 🚧 In progress |
 | [☁️ GCP ML Deployment](#) | Cloud Run, BigQuery, Vertex AI — multi-cloud ML serving | 🚧 In progress |
 
